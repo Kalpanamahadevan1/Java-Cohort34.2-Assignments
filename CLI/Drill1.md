@@ -86,8 +86,7 @@ explanation :
 ```
 command : mv hello/uno/a.txt hello/uno/two/
 explanation :
-mv → moves a file to another location.
+mv → moves a file to another location. Moves a.txt from uno into the two directory.
 
 ```
 
-Moves a.txt from uno into the two directory.
